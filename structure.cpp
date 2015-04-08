@@ -1,4 +1,4 @@
-//# include <windows.h> // uncomment it if running from Code Blocks or command line
+# include <windows.h> // uncomment it if running from Code Blocks or command line
 # include <stdio.h>
 # include <stdlib.h>
 # include <math.h>
